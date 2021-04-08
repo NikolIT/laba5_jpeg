@@ -1,0 +1,13 @@
+C:\Users\nikol\source\repos\laba5_jpeg\laba5_jpeg\obj\Debug\netcoreapp3.1\laba5_jpeg.csprojAssemblyReference.cache
+C:\Users\nikol\source\repos\laba5_jpeg\laba5_jpeg\obj\Debug\netcoreapp3.1\laba5_jpeg.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\laba5_jpeg\laba5_jpeg\obj\Debug\netcoreapp3.1\laba5_jpeg.AssemblyInfo.cs
+C:\Users\nikol\source\repos\laba5_jpeg\laba5_jpeg\obj\Debug\netcoreapp3.1\laba5_jpeg.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\laba5_jpeg\laba5_jpeg\bin\Debug\netcoreapp3.1\laba5_jpeg.exe
+C:\Users\nikol\source\repos\laba5_jpeg\laba5_jpeg\bin\Debug\netcoreapp3.1\laba5_jpeg.deps.json
+C:\Users\nikol\source\repos\laba5_jpeg\laba5_jpeg\bin\Debug\netcoreapp3.1\laba5_jpeg.runtimeconfig.json
+C:\Users\nikol\source\repos\laba5_jpeg\laba5_jpeg\bin\Debug\netcoreapp3.1\laba5_jpeg.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\laba5_jpeg\laba5_jpeg\bin\Debug\netcoreapp3.1\laba5_jpeg.dll
+C:\Users\nikol\source\repos\laba5_jpeg\laba5_jpeg\bin\Debug\netcoreapp3.1\laba5_jpeg.pdb
+C:\Users\nikol\source\repos\laba5_jpeg\laba5_jpeg\obj\Debug\netcoreapp3.1\laba5_jpeg.dll
+C:\Users\nikol\source\repos\laba5_jpeg\laba5_jpeg\obj\Debug\netcoreapp3.1\laba5_jpeg.pdb
+C:\Users\nikol\source\repos\laba5_jpeg\laba5_jpeg\obj\Debug\netcoreapp3.1\laba5_jpeg.genruntimeconfig.cache

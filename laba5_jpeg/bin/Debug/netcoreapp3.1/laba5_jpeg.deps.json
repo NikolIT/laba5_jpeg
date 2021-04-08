@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "laba5_jpeg/1.0.0": {
+        "runtime": {
+          "laba5_jpeg.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "laba5_jpeg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
