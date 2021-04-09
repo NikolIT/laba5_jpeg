@@ -183,7 +183,7 @@ namespace laba5_jpeg
             {
                 for (int j = 0; j < array.GetLength(1); j++)
                 {
-                    Console.Write((int)array[i, j] + "\t");
+                    Console.Write(Math.Round(array[i, j]) + "\t");
                 }
                 Console.WriteLine();
             }
